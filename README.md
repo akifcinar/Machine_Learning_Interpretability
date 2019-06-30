@@ -11,7 +11,7 @@ This GitHub repository is describing parts of my master-thesis with the title "A
 
 Methods of interpretable machine learning can help you to understand how models behave and make certain predictions.
 
-Methods of interpretable machine learning are essential for:
+Methods of interpretable machine learning can be very helpful for:
 - Identifying bugs in your model and optimizing
 - Getting insights how certain predictions were made
 - Getting insights how models behave globally (Feature interaction)
