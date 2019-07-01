@@ -29,7 +29,7 @@ Following table gives a brief summary about some methods that I am analyzing in 
 | ------ | --- | ----- |
 | LIME*   | model-agnostic | Local
 | DeepLIFT | model-specific | Local
-| Class Actication Maps | model-specific | Local
+| Class Activation Maps | model-specific | Local
 | Partial Dependence | model-agnostic | Global
 | ELI5!** | model-agnostic | Global
 | ICE*** | model-agnostic | Global
