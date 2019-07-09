@@ -35,7 +35,7 @@ Following table gives a brief summary about some methods that I am analyzing in 
 | ICE*** | model-agnostic | Global
 
 
- You can find an implementation of LIME and Class Activation Maps in [*this Notebook*](https://github.com/akifcinar/Machine_Learning_Interpretability/blob/master/Interpreting_Image_Classification/Image_Interpretation.ipynb) other implemetations will follow.
+ You can find an implementation of LIME and Class Activation Maps in [*this Notebook*](https://nbviewer.jupyter.org/github/akifcinar/Machine_Learning_Interpretability/blob/master/Interpreting_Image_Classification/Interpreting_Image_Classification.ipynb) other implemetations will follow.
 
 
 \* LIME: Local interpretable model-agnostic explanations
