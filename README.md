@@ -2,6 +2,8 @@
 
 This GitHub repository is describing parts of my master-thesis with the title "Analysis of existing methods for the interpretation of the decision process of machine learning methods regarding their suitablity for automotive applications" 
 
+For a detailed overview of the most used and most cited methods, please refer to the following publication: [*here*](https://hses.bsz-bw.de/frontdoor/deliver/index/docId/832/file/Overview_of_Machine_Learning_Interpretability.pdf)
+
 <br/>
 
 > ### Sometimes Human brain is so complex that it just cannot understand its own creation.
